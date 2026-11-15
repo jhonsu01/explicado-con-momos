@@ -5,6 +5,11 @@ Fuentes del video *La trampa de invertir en IA*, de @jhonsu777.
 
 **This video is education, not financial advice. / Este video es educativo, no asesoría financiera.**
 
+## Videos
+
+- Español: <https://youtu.be/K4YMHCwR_r8>
+- English: <https://youtu.be/LcTUnT7Vd30>
+
 Each claim in the script carries a tag `[F#]`. Figures are rounded as in the narration. Checked on 15 November 2026.
 Cada dato del guion lleva una etiqueta `[F#]`. Las cifras se redondean como en la narración. Revisado el 15 de noviembre de 2026.
 
