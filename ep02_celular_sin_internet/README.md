@@ -4,6 +4,11 @@ Sources for the video *Qué le pasa a tu cerebro si quitas el internet del celul
 
 **This video is education, not medical advice. / Este video es educativo, no es consejo médico.**
 
+## Videos
+
+- Español: <https://youtu.be/EFVaNjHXbR0>
+- English: <https://youtu.be/qQlPg31uU2A>
+
 Each claim in the script carries a tag `[F#]`. Checked on 16 November 2026.
 Cada dato del guion lleva una etiqueta `[F#]`. Revisado el 16 de noviembre de 2026.
 
