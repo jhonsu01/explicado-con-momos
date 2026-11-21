@@ -4,6 +4,10 @@ Fuentes del video *Un programador abrió TikTok por dentro y encontró 25 inteli
 
 **Este video es educativo. Distingue entre lo que afirma un desarrollador y lo que está comprobado.**
 
+## Videos
+
+- Español: <https://youtu.be/V9KIigxmA74>
+
 Cada dato del guion lleva una etiqueta `[F#]`. Revisado el 21 de noviembre de 2026.
 
 | # | Dato del video | Fuente |
