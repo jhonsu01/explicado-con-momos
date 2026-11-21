@@ -4,6 +4,10 @@ Fuentes del video *GTA 6: los datos más locos y por qué tu hijo no debería ju
 
 **Video educativo para madres y padres. No muestra imágenes del juego: todo se cuenta con dibujos propios.**
 
+## Videos
+
+- Español: <https://youtu.be/MBWSzvuGDvY>
+
 Cada dato del guion lleva una etiqueta `[F#]`. Revisado el 21 de noviembre de 2026.
 
 | # | Dato del video | Fuente |
